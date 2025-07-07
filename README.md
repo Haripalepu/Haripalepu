@@ -15,6 +15,19 @@
 
 I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
 
+---
+
+### 🧰 Tech Stack
+
+- **Cloud**: AWS, Azure, GAIA Cloud  
+- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
+- **SCM**: GitHub, Bitbucket  
+- **IaC**: Terraform  
+- **Containers**: Docker, Kubernetes  
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Splunk, Dynatrace, Prometheus, CloudWatch, Azure Monitor  
+- **Security**: IAM, RBAC, Azure Key Vault  
+- **Tools**: Nexus, JFrog Artifactory, SonarQube, Linux
 
 ---
 
@@ -44,20 +57,6 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 - 🏢 **Avineon** – *GIS Engineer*  
   Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
-
----
-
-### 🧰 Tech Stack
-
-- **Cloud**: AWS, Azure, GAIA Cloud  
-- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
-- **SCM**: GitHub, Bitbucket  
-- **IaC**: Terraform  
-- **Containers**: Docker, Kubernetes  
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Splunk, Dynatrace, Prometheus, CloudWatch, Azure Monitor  
-- **Security**: IAM, RBAC, Azure Key Vault  
-- **Tools**: Nexus, JFrog Artifactory, SonarQube, Linux
 
 ---
 

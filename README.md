@@ -13,9 +13,8 @@
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
 
-At **JPMorgan Chase**, I lead automation and observability initiatives across enterprise infrastructure, with a deep focus on performance, scalability, and developer experience.
 
 ---
 
@@ -48,19 +47,6 @@ At **JPMorgan Chase**, I lead automation and observability initiatives across en
 
 ---
 
-### 📞 Book a 1:1 Session
-
-I’m currently **not open to job opportunities**, but I’m always happy to support professionals and students in the tech space.
-
-🎯 Whether you're:
-- Exploring DevOps/SRE careers
-- Building cloud-native projects
-- Needing career guidance or mock interviews
-
-👉 [**Book a session with me on Topmate**](https://topmate.io/hari_palepu)
-
----
-
 ### 🧰 Tech Stack
 
 - **Cloud**: AWS, Azure, GAIA Cloud  
@@ -73,5 +59,23 @@ I’m currently **not open to job opportunities**, but I’m always happy to sup
 - **Security**: IAM, RBAC, Azure Key Vault  
 - **Tools**: Nexus, JFrog Artifactory, SonarQube, Linux
 
+---
 
-Thanks for visiting! 👇 Feel free to connect or book a session.
+### 💬 What I'm Open To
+
+I'm currently **not exploring new roles**, but always happy to contribute to the community through:
+
+- 🧠 Knowledge sharing & mentoring upcoming DevOps/SRE professionals  
+- 🧪 Technical discussions around automation, cloud, and infrastructure  
+- 💬 Collaborating on community events, content, or learning projects  
+
+---
+
+### 📞 Book a 1:1 Session
+
+If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
+
+👉 [**Book a session with me on Topmate**](https://topmate.io/hari_palepu)  
+*(Mentoring • Project Guidance • Career Advice)*
+
+Thanks for visiting!

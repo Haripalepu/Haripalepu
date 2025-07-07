@@ -61,16 +61,6 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### 💬 What I'm Open To
-
-I'm currently **not exploring new roles**, but always happy to contribute to the community through:
-
-- 🧠 Knowledge sharing & mentoring upcoming DevOps/SRE professionals  
-- 🧪 Technical discussions around automation, cloud, and infrastructure  
-- 💬 Collaborating on community events, content, or learning projects  
-
----
-
 ### 📞 Book a 1:1 Session
 
 If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:

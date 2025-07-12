@@ -7,8 +7,9 @@
 ### Software Engineer II – SRE @ JPMorgan Chase  
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
 [![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/hari_palepu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
 [![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
 
 ---
@@ -66,5 +67,55 @@ If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
 
 👉 [**Book a session with me on Topmate**](https://topmate.io/hari_palepu)  
 *(Mentoring • Project Guidance • Career Advice)*
+
+---
+
+## ⚙️ Skills Showcase
+
+<p align="left">
+  <!-- AWS -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+</a>
+
+  <!-- IaC / Automation -->
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
+  </a>
+
+  <!-- CI/CD -->
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
+  </a>
+
+  <!-- Containers -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+  </a>
+
+  <!-- OS & Scripting -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+</a>
+</p>
+
 
 Thanks for visiting!

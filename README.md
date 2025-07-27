@@ -18,7 +18,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 - **Cloud**: AWS, Azure, GAIA  
 - **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
@@ -32,18 +32,18 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### 🔧 What I Do
+## 🔧 What I Do
 
 - 🛠️ Build and manage infrastructure on **AWS & Azure** using **Terraform**  
-- 🚀 Design high-performance **CI/CD pipelines** using GitHub Actions, Azure DevOps, Jenkins, Jules  
+- 🚀 Design high-performance **CI/CD pipelines** with GitHub Actions, Jenkins, Azure DevOps  
 - ☁️ Operate internal services on **GAIA Private Cloud** using Kubernetes  
 - 🤖 Automate tasks using **Shell scripting**, **Python**, and **Linux tools**  
 - 📈 Monitor & optimize reliability with **Prometheus, Dynatrace, Splunk**  
-- 🔐 Secure environments using **RBAC**, **IAM**, and **Vaults**  
+- 🔐 Secure environments with **IAM**, **RBAC**, and **Key Vaults**
 
 ---
 
-### 💼 Career Snapshot
+## 💼 Career Snapshot
 
 - 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
 - 🏢 **Presidio** – *Senior DevOps Engineer*  
@@ -52,7 +52,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### ⚙️ Skills Showcase
+## ⚙️ Skills Showcase
 
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/></a>
@@ -102,20 +102,20 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### 📞 Book a 1:1 Session
+## 📞 Book a 1:1 Session
 
 👉 [**Topmate: Book 1:1 Mentoring / Career Chat**](https://topmate.io/hari_palepu)  
 *(Project Help • DevOps Guidance • Resume Review • Q&A)*
 
 ---
 
-### 🎮 Fun Facts
+## 🎮 Fun Facts
 
 - 🏍️ Passionate about motorbike rides  
-- ☕ Never says no to coffee  
+- ☕ Coffee is life  
 - 📚 Lifelong learner  
-- 🧘 Meditation believer  
-- 💡 Always up for tech discussions!
+- 🧘 Believer in meditation  
+- 💡 Always up for deep tech chats
 
 ---
 

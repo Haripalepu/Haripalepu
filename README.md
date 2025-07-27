@@ -2,17 +2,31 @@
   <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm Hari Krishna Palepu
+<h1 align="center">👋 Hi, I'm Hari Krishna Palepu</h1>
 
-### Software Engineer II – SRE @ JPMorgan Chase  
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+<p align="center">
+  <b>Software Engineer II – SRE @ JPMorgan Chase</b><br/>
+  🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+</p>
 
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/hari_palepu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
+<p align="center">
+  <a href="https://topmate.io/hari_palepu">
+    <img src="https://img.shields.io/badge/Topmate-Book%20a%201:1-brightgreen?style=for-the-badge&logo=meetup" alt="Topmate Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/haripalepu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@hareepalepu">
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>
+  </a>
+  <a href="mailto:harikpalepu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
+
+## 💡 About Me
 
 I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
 
@@ -35,11 +49,11 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 ## 🔧 What I Do
 
 - 🛠️ Build and manage infrastructure on **AWS & Azure** using **Terraform**  
-- 🚀 Design high-performance **CI/CD pipelines** with GitHub Actions, Jenkins, Azure DevOps  
+- 🚀 Design high-performance **CI/CD pipelines** using GitHub Actions, Azure DevOps, Jenkins, Jules  
 - ☁️ Operate internal services on **GAIA Private Cloud** using Kubernetes  
 - 🤖 Automate tasks using **Shell scripting**, **Python**, and **Linux tools**  
 - 📈 Monitor & optimize reliability with **Prometheus, Dynatrace, Splunk**  
-- 🔐 Secure environments with **IAM**, **RBAC**, and **Key Vaults**
+- 🔐 Secure environments with **RBAC**, **IAM**, and **Vaults**  
 
 ---
 
@@ -55,16 +69,16 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 ## ⚙️ Skills Showcase
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="36" alt="Ansible"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" alt="Jenkins"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="36" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
 </p>
 
 ---
@@ -112,10 +126,10 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 ## 🎮 Fun Facts
 
 - 🏍️ Passionate about motorbike rides  
-- ☕ Coffee is life  
+- ☕ Never says no to coffee  
 - 📚 Lifelong learner  
-- 🧘 Believer in meditation  
-- 💡 Always up for deep tech chats
+- 🧘 Meditation believer  
+- 💡 Always up for tech discussions!
 
 ---
 

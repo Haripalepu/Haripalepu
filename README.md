@@ -107,7 +107,3 @@ If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
 ---
 
 Thanks for visiting!
-
-
-
-![Hari's GitHub Stats](h)

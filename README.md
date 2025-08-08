@@ -20,15 +20,16 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS, Azure, GAIA Cloud  
-- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
-- **SCM**: GitHub, Bitbucket  
-- **IaC**: Terraform  
-- **Containers**: Docker, Kubernetes  
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Splunk, Dynatrace, Prometheus, CloudWatch, Azure Monitor  
-- **Security**: IAM, RBAC, Azure Key Vault  
-- **Tools**: Nexus, JFrog Artifactory, SonarQube, Linux
+- **Cloud**     : AWS, Azure, GAIA Cloud  
+- **OS**        : Linux, Windows
+- **CI/CD**     : Azure DevOps, GitHub Actions, Jenkins, Jules  
+- **SCM**       : GitHub, Bitbucket  
+- **IaC**       : Terraform. Cloudformation  
+- **Containers**: Docker, Kubernetes 
+- **Security**  : SonarQube, Snyk 
+- **Arifactory**: Nexus, JFrog 
+- **Scripting** : Bash, Shell, Python  
+- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor  
 
 ---
 

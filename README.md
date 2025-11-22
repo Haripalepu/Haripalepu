@@ -29,7 +29,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 - **Security & Scanning**: SonarQube, Snyk 
 - **Arifactory**: Nexus, JFrog 
 - **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor  
+- **Monitoring**: Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor 
 
 ---
 

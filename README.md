@@ -61,15 +61,6 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### 📞 Book a 1:1 Session
-
-If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
-
-👉 [**Book a session with me on Topmate**](https://topmate.io/hari_palepu)  
-*(Mentoring • Project Guidance • Career Advice)*
-
----
-
 ## ⚙️ Skills Showcase
 
 <p align="left">
